@@ -1,0 +1,10 @@
+{
+    "host": "ec2-174-129-253-169.compute-1.amazonaws.com",
+    "database": "d45478ucf5b87j",
+    "user": "clohnbndplnijm",
+    "port": 5432,
+    "password": "dbfe8cf8b66f7a10433db9e95b23ce66548180eba295d5f7e217b9223227371c",
+    "uri": "postgres://clohnbndplnijm:dbfe8cf8b66f7a10433db9e95b23ce66548180eba295d5f7e217b9223227371c@ec2-174-129-253-169.compute-1.amazonaws.com:5432/d45478ucf5b87j",
+    "ssl": true
+
+}
